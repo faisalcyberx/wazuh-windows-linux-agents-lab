@@ -48,7 +48,6 @@ Check the Windows operating system:
 ```powershell
 winver
 ```
-
 Check network connectivity to the Wazuh Manager:
 
 ```powershell
